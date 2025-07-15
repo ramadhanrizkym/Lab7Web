@@ -449,7 +449,6 @@ Fungsi utama ViewCell Membungkus View agar dapat digunakan sebagai item dalam da
    ![image](https://github.com/user-attachments/assets/62622a31-5acc-4562-8d5f-f9c7e0e9447e)
 
 6. Hasil
-
    ![image](https://github.com/user-attachments/assets/8b515dac-a0e4-4b27-851b-593b5fe0ed10)
 
    
@@ -460,18 +459,12 @@ Fungsi utama ViewCell Membungkus View agar dapat digunakan sebagai item dalam da
 ## Upload File Gambar
 
 1. Buka direktori app/Controller/Artikel.php lalu edit code menjadi seperti ini
-
    ![image](https://github.com/user-attachments/assets/70ef8463-d46c-45cd-8b51-6fa26e4945bb)
-
 2. Lalu pada app/Views/form_add.php tambahkan kode berikut
-
    ![image](https://github.com/user-attachments/assets/073ed160-52bc-414c-b4b2-4afca31cca90)
-
    ![image](https://github.com/user-attachments/assets/47d54d8e-3e25-4b9a-882f-92e8ad99b1ed)
-
 3. Hasil
-
-![image](https://github.com/user-attachments/assets/24d08d71-dba1-4e81-bcc6-06d1c591bf0f)
+   ![image](https://github.com/user-attachments/assets/24d08d71-dba1-4e81-bcc6-06d1c591bf0f)
 
 
 # Praktikum 7 #
