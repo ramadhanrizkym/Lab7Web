@@ -437,7 +437,7 @@ Fungsi utama ViewCell Membungkus View agar dapat digunakan sebagai item dalam da
 
 # Praktikum 5 #
 
-## Pagination & Search Bar
+### Pagination & Search Bar
 
 1. Buka app/Controller/Artikel.php untuk memodifikasi codingan berikut ini
    ![image](https://github.com/user-attachments/assets/4f5db0b2-cc56-4550-bd49-182a87886dfc)
@@ -676,11 +676,8 @@ Buat Project baru dengan struktur file dan directory seperti berikut:
 
 ### File apps.js 
 
-
 ### Sispkan kode Form Tambah dan Ubah Data Pada file index,html
 
-
 ### Pada File app.js lengkapi kodenya. 
-
 
 ### File style.css
