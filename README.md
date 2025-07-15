@@ -307,12 +307,10 @@ home
 <?= $this->endSection() ?>
 
 
-### Membuat Class View Cell
-
+## Membuat Class View Cell
 Membuat Direktori Cells di dalam app lalu buat file Artikel.php pada app/Cells
-cells <br>
+cells
 <?php
-
 namespace App\Cells;
 
 use CodeIgniter\View\Cell;
@@ -333,19 +331,15 @@ class ArtikelTerkini extends Cell
     }
 }
 
-
-
-### Membuat View untuk View Cells
-
+## Membuat View untuk View Cells
 Buat folder components di dalam app/Views/ 
 Buat file artikel_terkini.php di dalam app/Views/components/ dengan kode berikut:
 ![image](https://github.com/user-attachments/assets/dbd7c9f9-b6d0-4a6f-a320-9ad32b6bb93b)
 
-### Jawaban dari Pertanyaan dan Tugas
+## Jawaban dari Pertanyaan dan Tugas
 View Layout adalah elemen tata letak (seperti StackLayout, Grid, AbsoluteLayout) yang digunakan untuk menyusun dan mengatur posisi elemen-elemen UI (View) di layar.
 
 Manfaat utamanya:
-
 Pengaturan UI yang fleksibel: Memungkinkan pengembang menyusun elemen dengan tata letak horizontal, vertikal, atau grid sesuai kebutuhan.
 Respon terhadap berbagai ukuran layar: Layout memudahkan desain UI yang adaptif dan responsif.
 Pengelompokan elemen: Memungkinkan pengelompokan logis elemen
@@ -356,10 +350,9 @@ Fungsi utama ViewCell Membungkus View agar dapat digunakan sebagai item dalam da
 
 
 
-
 # Praktikum 4 #
 
-### Modul Login
+## Modul Login
 
 1. Buat Table Baru dengan nama 'users'
    ![image](https://github.com/user-attachments/assets/c11177e6-63a8-4340-9279-e1109ffe8628)
@@ -386,7 +379,6 @@ Fungsi utama ViewCell Membungkus View agar dapat digunakan sebagai item dalam da
    *cd C:\xampp\htdocs\lab7_web\ci4*
    *php spark make:seeder UserSeeder*
    ![image](https://github.com/user-attachments/assets/d1230284-32d7-40c1-919a-89b0ce616c8e)
-
 
    Selanjutnya, buka file UserSeeder.php yang berada di lokasi direktori
    /app/Database/Seeds/UserSeeder.php kemudian isi dengan kode berikut:
@@ -437,7 +429,7 @@ Fungsi utama ViewCell Membungkus View agar dapat digunakan sebagai item dalam da
 
 # Praktikum 5 #
 
-### Pagination & Search Bar
+## Pagination & Search Bar
 
 1. Buka app/Controller/Artikel.php untuk memodifikasi codingan berikut ini
    ![image](https://github.com/user-attachments/assets/4f5db0b2-cc56-4550-bd49-182a87886dfc)
