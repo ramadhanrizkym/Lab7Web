@@ -355,6 +355,8 @@ Fungsi utama view Menampilkan elemen UI seperti Label, Image, Button
 Fungsi utama ViewCell Membungkus View agar dapat digunakan sebagai item dalam daftar
 
 
+
+
 # Praktikum 4 #
 
 ### Modul Login
@@ -365,6 +367,7 @@ Fungsi utama ViewCell Membungkus View agar dapat digunakan sebagai item dalam da
 2. Membuat Model User
    Buat file baru pada direktori app/Models dengan nama UserModel.php
    ![image](https://github.com/user-attachments/assets/9712ac2d-7b38-40fa-8ec3-289088b581a5)
+  
 
 3. Membuat Controller User
    Buat Controller baru dengan nama User.php pada direkdirektori app/Controllers. Kemudian tambahkan method *index()* untuk
@@ -428,7 +431,6 @@ Fungsi utama ViewCell Membungkus View agar dapat digunakan sebagai item dalam da
           return redirect()->to('/user/login');
       }
       
-
 13. Hasil
     ![image](https://github.com/user-attachments/assets/5b9d7117-2c0c-4e36-a7e0-a1f3f535fc94)
 
@@ -457,6 +459,8 @@ Fungsi utama ViewCell Membungkus View agar dapat digunakan sebagai item dalam da
 6. Hasil
 
    ![image](https://github.com/user-attachments/assets/8b515dac-a0e4-4b27-851b-593b5fe0ed10)
+
+   
 
 
 # Praktikum 6 #
