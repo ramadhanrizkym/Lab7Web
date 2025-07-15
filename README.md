@@ -310,7 +310,7 @@ home
 ### Membuat Class View Cell
 
 Membuat Direktori Cells di dalam app lalu buat file Artikel.php pada app/Cells
-cells
+cells <br>
 <?php
 
 namespace App\Cells;
